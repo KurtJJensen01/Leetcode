@@ -16,8 +16,6 @@ The repository is organized as follows:
 ## Languages Used
 Most of my solutions are written in:
 - C++
-- Python
-- Java
 
 Other languages may appear depending on the problem and experimentation.
 
